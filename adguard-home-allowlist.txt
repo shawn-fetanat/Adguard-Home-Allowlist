@@ -4,8 +4,8 @@
 # Issues: https://github.com/shawn-fetanat/Adguard-Home-Allowlist/issues
 
 # DNS
-*.adguard-dns.io
-*.nextdns.io
+@@|*.adguard-dns.io^$important
+@@|*.nextdns.io^$important
 
 # BANKING
-*.navyfederal.org
+@@|*.navyfederal.org^$important

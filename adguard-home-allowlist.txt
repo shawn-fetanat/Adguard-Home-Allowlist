@@ -1,0 +1,11 @@
+# Title: My Adguard Home Allowlist
+# Description: The list contains domains for adguard to allow
+# Homepage: https://github.com/shawn-fetanat/Adguard-Home-Allowlist
+# Issues: https://github.com/shawn-fetanat/Adguard-Home-Allowlist/issues
+
+# DNS
+*.adguard-dns.io
+*.nextdns.io
+
+# BANKING
+*.navyfederal.org

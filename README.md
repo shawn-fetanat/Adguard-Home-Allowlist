@@ -1,2 +1,4 @@
 # Adguard-Home-Allowlist
-Allowlist for Adguard Home
+
+
+This is my allowlist for Adguard Home

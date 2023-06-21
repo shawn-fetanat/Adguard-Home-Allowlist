@@ -9,3 +9,6 @@
 
 # BANKING
 @@|*.navyfederal.org^$important
+
+# CRYPTO
+@@|*.minepi.com^$important

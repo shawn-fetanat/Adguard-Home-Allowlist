@@ -12,3 +12,6 @@
 
 # CRYPTO
 @@|*.minepi.com^$important
+
+# GOOGLE FONTS
+@@||fonts.gstatic.com^$important

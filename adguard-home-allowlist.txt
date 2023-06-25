@@ -15,3 +15,7 @@
 
 # GOOGLE FONTS
 @@||fonts.gstatic.com^$important
+
+# FACEBOOK
+@@||edge-mqtt.facebook.com^$important
+@@||portal.fb.com^$important

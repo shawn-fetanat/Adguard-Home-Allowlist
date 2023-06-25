@@ -19,3 +19,9 @@
 # FACEBOOK
 @@||edge-mqtt.facebook.com^$important
 @@||portal.fb.com^$important
+
+# GLINET ROUTER
+@@||http://192.168.8.1^$important
+
+# ADGUARD HOME
+@@||http://192.168.8.1:3000^$important

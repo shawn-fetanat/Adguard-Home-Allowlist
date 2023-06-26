@@ -3,9 +3,18 @@
 # Homepage: https://github.com/shawn-fetanat/Adguard-Home-Allowlist
 # Issues: https://github.com/shawn-fetanat/Adguard-Home-Allowlist/issues
 
-# DNS
-@@|*.adguard-dns.io^$important
-@@|*.nextdns.io^$important
+# ADGUARD HOME
+@@||http://192.168.8.1:3000^$important
+
+# APPLE DEVICE UPDATES
+@@||xp.apple.com^$important
+
+# APPLE iMESSAGES (GIFs/SPOTLIGHT SEARCH)
+@@||smoot.apple.com^$important
+
+# APPLE STORE
+@@||amp-api-edge.apps.apple.com^$important
+@@||amp-api-search-edge.apps.apple.com^$important
 
 # BANKING
 @@|*.navyfederal.org^$important
@@ -13,15 +22,39 @@
 # CRYPTO
 @@|*.minepi.com^$important
 
-# GOOGLE FONTS
-@@||fonts.gstatic.com^$important
+# DNS
+@@|*.adguard-dns.io^$important
+@@|*.nextdns.io^$important
 
 # FACEBOOK
 @@||edge-mqtt.facebook.com^$important
 @@||portal.fb.com^$important
+@@||graph.facebook.com^$important
+@@||b-graph.facebook.com^$important
+@@||connect.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||graph-fallback.facebook.com^$important
+@@||z-m-graph.facebook.com^$important
 
 # GLINET ROUTER
 @@||http://192.168.8.1^$important
 
-# ADGUARD HOME
-@@||http://192.168.8.1:3000^$important
+# GOOGLE FONTS
+@@||fonts.gstatic.com^$important
+
+# GOOGLE NEST USAGE METRICS
+@@||logsink.devices.nest.com^$important
+
+# IMGUR
+@@||js.media-lab.ai^$important
+
+# INSTAGRAM
+@@||graph.instagram.com^$important
+@@||i.instagram.com^$important
+@@||graph-fallback.instagram.com^$important
+
+# WINDOWS
+@@||settings-win.data.microsoft.com^$important
+
+# YOUTUBE HISTORY
+@@||s.youtube.com^$important
